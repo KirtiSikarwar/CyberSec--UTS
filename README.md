@@ -119,7 +119,7 @@ The following screenshot displays the result of running `docker ps` after succes
 Run sudo docker ps
 
 ![ELK-Docker](https://github.com/KirtiSikarwar/CyberSec--UTS/blob/main/Screenshots/ELK%20Docker.png)
-!{Installing ELK.yml](https://github.com/KirtiSikarwar/CyberSec--UTS/blob/main/Screenshots/Install%20ELK%20yml.png)
+![Installing ELK.yml](https://github.com/KirtiSikarwar/CyberSec--UTS/blob/main/Screenshots/Install%20ELK%20yml.png)
 
 
 ### Target Machines & Beats
